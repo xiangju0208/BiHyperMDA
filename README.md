@@ -18,14 +18,15 @@ For detailed implementation instructions, please refer to getData.py
 ### 2. Get miRNA and disease embedding 
 For detailed implementation instructions, please refer to model.py
 ### 3. Predicting and Model Output 
-We use AUROC and AUPRC as two standard evaluation metrics. For detailed implementation instructions, please refer to model.py and train.py
+We use AUROC and AUPRC as two standard evaluation metrics. 
+*For detailed implementation instructions, please refer to model.py and train.py
 ## Quick Run
 Execute python main.py to run the code
 
 ## Cite
 If you use the work in your research, please cite:
-Xiang, et al., BiHyperMDA: Bidirectional Hypergraph Learning with Hyperedge Interactions for miRNA-Disease Association Prediction, BIBM 2026.
+* Xiang, et al., BiHyperMDA: Bidirectional Hypergraph Learning with Hyperedge Interactions for miRNA-Disease Association Prediction, BIBM 2026.
 
 ## Contact
-Please contact us for any further questions:
-Email: Ju Xiang xiang.ju@foxmail.com
+* Please contact us for any further questions:
+* Email: Ju Xiang xiang.ju@foxmail.com
