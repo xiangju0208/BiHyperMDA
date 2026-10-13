@@ -19,7 +19,7 @@ For detailed implementation instructions, please refer to getData.py
 For detailed implementation instructions, please refer to model.py
 ### 3. Predicting and Model Output 
 We use AUROC and AUPRC as two standard evaluation metrics. 
-*For detailed implementation instructions, please refer to model.py and train.py
+For detailed implementation instructions, please refer to model.py and train.py
 ## Quick Run
 Execute python main.py to run the code
 
@@ -29,4 +29,4 @@ If you use the work in your research, please cite:
 
 ## Contact
 * Please contact us for any further questions:
-* Email: Ju Xiang xiang.ju@foxmail.com
+* Email: xiang.ju@foxmail.com
